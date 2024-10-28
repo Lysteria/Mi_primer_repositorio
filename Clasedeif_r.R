@@ -1,3 +1,5 @@
+#--------------------------# Clase de If: Condicionales #------------------------#
+
 #if (condicion){
 
 #si la condicion es verdadera
