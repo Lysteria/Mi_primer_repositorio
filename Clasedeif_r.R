@@ -1,5 +1,5 @@
 #--------------------------# Clase de If: Condicionales #------------------------#
-
+# te gano puta
 #if (condicion){
 
 #si la condicion es verdadera
