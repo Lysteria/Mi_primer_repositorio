@@ -6,7 +6,7 @@
 
 #Ejecuta TODO lo que está en los corchetes
 
-#
+#A miguel LE ENCANTA EL CHOSTO
 
 mayor_de_edad<-18
 
