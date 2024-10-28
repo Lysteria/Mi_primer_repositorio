@@ -1,2 +1,3 @@
 # Mi_primer_repositorio
-Este es un depositorio 
+Esto no es un repositorio
+¿QUe prefieres vivo o muerto?
