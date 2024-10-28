@@ -85,3 +85,4 @@ pozole1 <- readline(prompt = "te gusta el pozole?")
 if (mole1 == "sí" & pozole1 =="sí") {
   print("Mexicano de verdad")
 }
+#Agregacion de cosas xdxdxddxdxddx
